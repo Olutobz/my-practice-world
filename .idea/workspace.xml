@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86726fbc-cc18-4c8a-a07a-ee8b201f8064" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="my-practice-world" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter4/TabularOutput.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter4/TwoLargestNumber.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter5/BarChartPrinting.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter5/DeMorganLaws.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter5/DiamondPrinting.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter5/Factorials.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter5/GradeBook.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter5/GradeBookTest.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter5/Interest.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter5/LogicalOperators.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter5/MysteryExercises.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter5/OddIntegersProduct.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter5/PythagoreanTriples.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter5/Sales.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter5/SmallestValue.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter5/Sum.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter5/TrianglePrinting.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter5/TwelveDaysOfChristmasSong.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter5/ValueOfPie.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/CircleArea.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/Craps.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/EvenOrOdd.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/Exponentiation.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/GuessingNumberGame.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/Hypotenuse.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/MaximumFinder.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/Minimum.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/Multiples.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/ParkingCharges.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/PerfectNumbers.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/PointsDistance.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/RandomIntegers2.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/RandomIntegers.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/RandomNumbers.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/ReversingDigits.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/RollDie.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/RoundingNumbers.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/Scope.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/SeparatingDigits.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/SquareOfAsterisks.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter6/TemperatureConversion.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter7/BarChart.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter7/Card.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter7/DeckOfCards.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter7/EnhancedForTest.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter7/GradeBook.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter7/InitArray.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter7/PassArray.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter7/RollDie.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter7/StudentPoll.java" />
+        <option value="$PROJECT_DIR$/src/dietelBook/chapter7/SumArray.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Course" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553510235191" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="HashiAssignments" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Onikoyi Olutoba\IdeaProjects\my-practice-world\src\udacity\objectOrientedProgramming" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="chapter4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Onikoyi Olutoba\IdeaProjects\my-practice-world\files" />
+      <recent name="C:\Users\Onikoyi Olutoba\IdeaProjects\my-practice-world" />
+      <recent name="C:\Users\Onikoyi Olutoba\IdeaProjects\my-practice-world\src\files" />
+      <recent name="C:\Users\Onikoyi Olutoba\IdeaProjects\my-practice-world\src" />
+      <recent name="C:\Users\Onikoyi Olutoba\IdeaProjects\my-practice-world\src\udacity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DeckOfCards">
+    <configuration name="DeckOfCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelBook.chapter7.DeckOfCards" />
+      <module name="my-practice-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dietelBook.chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnhancedForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelBook.chapter7.EnhancedForTest" />
+      <module name="my-practice-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dietelBook.chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelBook.chapter7.GradeBook" />
+      <module name="my-practice-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dietelBook.chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelBook.chapter7.PassArray" />
+      <module name="my-practice-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dietelBook.chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentPoll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelBook.chapter7.StudentPoll" />
+      <module name="my-practice-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dietelBook.chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DeckOfCards" />
+        <item itemvalue="Application.GradeBook" />
+        <item itemvalue="Application.PassArray" />
+        <item itemvalue="Application.EnhancedForTest" />
+        <item itemvalue="Application.StudentPoll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86726fbc-cc18-4c8a-a07a-ee8b201f8064" name="Default Changelist" comment="" />
+      <created>1545591441179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545591441179</updated>
+      <workItem from="1545591451890" duration="15950000" />
+      <workItem from="1545658448635" duration="10626000" />
+      <workItem from="1545729889135" duration="111135000" />
+      <workItem from="1546381087909" duration="1244000" />
+      <workItem from="1546415220650" duration="10662000" />
+      <workItem from="1546442263303" duration="40000000" />
+      <workItem from="1546611150423" duration="1200000" />
+      <workItem from="1546855354375" duration="1210000" />
+      <workItem from="1547054664442" duration="4250000" />
+      <workItem from="1547756704837" duration="1074000" />
+      <workItem from="1548014632575" duration="3864000" />
+      <workItem from="1548019122639" duration="42055000" />
+      <workItem from="1548238264373" duration="545000" />
+      <workItem from="1548776691840" duration="483000" />
+      <workItem from="1548898744021" duration="4953000" />
+      <workItem from="1549009068340" duration="2623000" />
+      <workItem from="1549123226317" duration="1726000" />
+      <workItem from="1549179191243" duration="7353000" />
+      <workItem from="1549782735067" duration="1539000" />
+      <workItem from="1549869519152" duration="1422000" />
+      <workItem from="1549890378542" duration="4024000" />
+      <workItem from="1549950920199" duration="3683000" />
+      <workItem from="1550026190589" duration="2303000" />
+      <workItem from="1550032536872" duration="1754000" />
+      <workItem from="1550095975874" duration="623000" />
+      <workItem from="1550096945918" duration="779000" />
+      <workItem from="1550120090215" duration="526000" />
+      <workItem from="1550120684728" duration="3584000" />
+      <workItem from="1550200615107" duration="261000" />
+      <workItem from="1550200932607" duration="2646000" />
+      <workItem from="1550207975539" duration="7841000" />
+      <workItem from="1550323142601" duration="7080000" />
+      <workItem from="1550426692410" duration="16749000" />
+      <workItem from="1550549114568" duration="6601000" />
+      <workItem from="1550580116375" duration="675000" />
+      <workItem from="1550588302713" duration="2225000" />
+      <workItem from="1550632157462" duration="7974000" />
+      <workItem from="1550674693586" duration="1811000" />
+      <workItem from="1550719354208" duration="5985000" />
+      <workItem from="1550740680451" duration="666000" />
+      <workItem from="1550794566058" duration="18313000" />
+      <workItem from="1550934255733" duration="6777000" />
+      <workItem from="1551002299652" duration="273000" />
+      <workItem from="1551067566276" duration="7906000" />
+      <workItem from="1551108131780" duration="46986000" />
+      <workItem from="1551270390254" duration="653000" />
+      <workItem from="1551271906678" duration="48000" />
+      <workItem from="1551337191175" duration="5587000" />
+      <workItem from="1551382350745" duration="2885000" />
+      <workItem from="1551423458617" duration="7685000" />
+      <workItem from="1551475410324" duration="14294000" />
+      <workItem from="1551564217309" duration="628000" />
+      <workItem from="1551581596489" duration="11994000" />
+      <workItem from="1551634847001" duration="2683000" />
+      <workItem from="1551650156105" duration="2079000" />
+      <workItem from="1551711845641" duration="18000" />
+      <workItem from="1551820470057" duration="2058000" />
+      <workItem from="1551862970019" duration="605000" />
+      <workItem from="1551883920444" duration="15483000" />
+      <workItem from="1552065326051" duration="2034000" />
+      <workItem from="1552090708084" duration="65370000" />
+      <workItem from="1552339016119" duration="8921000" />
+      <workItem from="1552384892535" duration="45000" />
+      <workItem from="1552455147032" duration="1341000" />
+      <workItem from="1552519484675" duration="708000" />
+      <workItem from="1552644106771" duration="1222000" />
+      <workItem from="1552674271480" duration="11727000" />
+      <workItem from="1552742438401" duration="14000" />
+      <workItem from="1552794064728" duration="8113000" />
+      <workItem from="1552902775923" duration="1080000" />
+      <workItem from="1552906234664" duration="11200000" />
+      <workItem from="1553021955609" duration="9617000" />
+      <workItem from="1553074991728" duration="2058000" />
+      <workItem from="1553085039832" duration="34000" />
+      <workItem from="1553148311065" duration="753000" />
+      <workItem from="1553183255332" duration="645000" />
+      <workItem from="1553257365003" duration="11636000" />
+      <workItem from="1553348790587" duration="791000" />
+      <workItem from="1553401120481" duration="42977000" />
+      <workItem from="1553509915656" duration="702000" />
+      <workItem from="1554296355801" duration="29000" />
+      <workItem from="1554307343164" duration="192000" />
+      <workItem from="1554307650441" duration="588000" />
+      <workItem from="1555333080578" duration="5936000" />
+      <workItem from="1555514837411" duration="505000" />
+      <workItem from="1555598242411" duration="3808000" />
+      <workItem from="1556019435946" duration="960000" />
+      <workItem from="1556530798414" duration="452000" />
+      <workItem from="1556533475669" duration="98000" />
+      <workItem from="1559299254213" duration="159000" />
+      <workItem from="1559907331317" duration="127000" />
+      <workItem from="1560781141322" duration="186000" />
+      <workItem from="1561074282565" duration="83000" />
+      <workItem from="1561074582216" duration="1031000" />
+      <workItem from="1561144703713" duration="850000" />
+      <workItem from="1561222789963" duration="362000" />
+      <workItem from="1562567492980" duration="59000" />
+      <workItem from="1562602821328" duration="6763000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="691835000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="28" width="1366" height="740" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4928" visible="true" weight="0.20833333" />
+      <window_info id="Structure" order="1" sideWeight="0.5072" side_tool="true" weight="0.27943486" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5072" side_tool="true" weight="0.28096676" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Duplicate detector" order="0" weight="0.32792208" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.32792208" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.50668895" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" weight="0.32" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32792208" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.328" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.392" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" x="13" y="453" width="1322" height="214" id="Run" order="13" weight="0.3728" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.32954547" />
+      <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.3296" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="16" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3290469" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3290469" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24886535" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="9" weight="0.32810047" />
+      <window_info anchor="right" id="CodeStream" order="10" weight="0.32954547" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/my-practice-world" />
+    </ignored-roots>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter4/TabularOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#841#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter4/TwoLargestNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#1337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter5/BarChartPrinting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter5/DeMorganLaws.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#1440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter5/DiamondPrinting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-771">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#3031#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter5/Factorials.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#1236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter5/GradeBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#4286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter5/GradeBookTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter5/Interest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#1246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter5/LogicalOperators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#2048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter5/MysteryExercises.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#815#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter5/OddIntegersProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter5/PythagoreanTriples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#1386#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter5/Sales.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#3279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter5/SmallestValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#980#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter5/Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#452#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter5/TrianglePrinting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#2583#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter5/TwelveDaysOfChristmasSong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter5/ValueOfPie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/Craps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#3334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/EvenOrOdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/Exponentiation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#723#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/CircleArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#541#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/GuessingNumberGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/Hypotenuse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#808#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/MaximumFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#1578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/Minimum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="55" lean-forward="true" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/Multiples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/ParkingCharges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/PerfectNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/PointsDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/RandomIntegers2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/RandomIntegers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/RandomNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/ReversingDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/RollDie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/RoundingNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-321">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/Scope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/SeparatingDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/SquareOfAsterisks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter6/TemperatureConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter7/BarChart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter7/EnhancedForTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter7/GradeBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter7/InitArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter7/PassArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter7/RollDie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter7/StudentPoll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter7/SumArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter7/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter7/DeckOfCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>my-practice-world</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>KotlinJavaRuntime</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
