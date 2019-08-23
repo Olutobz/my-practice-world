@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Self-Work Practices
 >I learnt and practice Udacity's functional & object Oriented Programming, It is a free course I enjoyed and find very 
 resourceful and beginners worthy. I added some of the exercises I practice while learning how to program in java using 
@@ -9,3 +10,7 @@ the book titled "How to program in java" by DIETEL.
 ## license
 ![Apache License](LICENSE)
 
+=======
+# my-practice-world
+Self-Work Practice exercises on java
+>>>>>>> a6659d24ae27513948eec91e5a2577a154345a85
