@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86726fbc-cc18-4c8a-a07a-ee8b201f8064" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelBook/chapter7/DeckOfCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelBook/chapter7/DeckOfCards.java" afterDir="false" />
-    </list>
+    <list default="true" id="86726fbc-cc18-4c8a-a07a-ee8b201f8064" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +34,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter7/DeckOfCards.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#2537#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -160,19 +160,6 @@
               <item name="my-practice-world" type="b2602c69:ProjectViewProjectNode" />
               <item name="my-practice-world" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-practice-world" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-practice-world" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="udacityJava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-practice-world" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-practice-world" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="udacityJava" type="462c0819:PsiDirectoryNode" />
-              <item name="functionalProgramming" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -424,12 +411,12 @@
       <workItem from="1565886203296" duration="278000" />
       <workItem from="1565886516327" duration="145000" />
       <workItem from="1566508071893" duration="166000" />
-      <workItem from="1566518075182" duration="1049000" />
+      <workItem from="1566518075182" duration="1653000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="696412000" />
+    <option name="totallyTimeSpent" value="697016000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -442,6 +429,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1366" height="740" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4916388" visible="true" weight="0.24015151" />
       <window_info id="Structure" order="1" sideWeight="0.5083612" side_tool="true" weight="0.20833333" />
@@ -964,8 +952,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dietelBook/chapter7/DeckOfCards.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#2537#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
