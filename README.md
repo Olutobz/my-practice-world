@@ -9,7 +9,6 @@ the book titled "How to program in java" by DIETEL.
 ## license
 ![Apache License](LICENSE)
 
-=======
 # my-practice-world
 Self-Work Practice exercises on java
 
