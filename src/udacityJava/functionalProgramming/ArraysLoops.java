@@ -1,5 +1,7 @@
 package udacityJava.functionalProgramming;
 
+/* Written by Onikoyi Damola Olutoba */
+
 public class ArraysLoops {
     private static double calculateAverage(double [] temperature) {
         int size = temperature.length; //number of items in the array
