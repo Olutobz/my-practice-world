@@ -11,7 +11,7 @@ public class Maps {
         Map<String, String> map = new HashMap<>();
         map.put("Onikoyi ", " Olutoba");
         map.put("Akinwole ", " Winner");
-        map.put("Google ", " Software engineer");
+        map.put("Google ", " Software engineering intern");
         System.out.println(map);
         System.out.println();
 
