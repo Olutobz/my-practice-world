@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86726fbc-cc18-4c8a-a07a-ee8b201f8064" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/olutobz.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/olutobz.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my-practice-world/freecodecamp/List.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/my-practice-world/freecodecamp/List.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my-practice-world/freecodecamp/Maps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/my-practice-world/freecodecamp/Maps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-practice-world/META-INF/my-practice-world.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/my-practice-world/META-INF/my-practice-world.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-practice-world/dietelBook/chapter2/Addition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/my-practice-world/dietelBook/chapter2/Addition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-practice-world/hashiAssignments/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/my-practice-world/hashiAssignments/Course.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-practice-world/hashiAssignments/GpCalculatorKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/my-practice-world/hashiAssignments/GpCalculatorKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelBook/chapter2/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelBook/chapter2/Addition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/freecodecamp/Maps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/freecodecamp/Maps.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,9 +33,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="my-practice-world" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -46,7 +46,13 @@
   </component>
   <component name="ProjectId" id="1QfwT9q28KA28UNET9A4RGIzPR1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
@@ -66,7 +72,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
@@ -86,25 +92,26 @@
       <recent name="C:\Users\Onikoyi Olutoba\IdeaProjects\my-practice-world\src\udacity" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.TrianglePrinting">
-    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="freecodecamp.List" />
+  <component name="RunManager" selected="Application.Hello">
+    <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelBook.chapter2.Addition" />
       <module name="my-practice-world" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="freecodecamp.*" />
+          <option name="PATTERN" value="dietelBook.chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udacityJava.Hello" />
+      <module name="my-practice-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="udacityJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,19 +121,6 @@
     </configuration>
     <configuration name="Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="freecodecamp.Maps" />
-      <module name="my-practice-world" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="freecodecamp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="freecodecamp.Sets" />
       <module name="my-practice-world" />
       <extension name="coverage">
         <pattern>
@@ -164,16 +158,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.Addition" />
         <item itemvalue="Application.TrianglePrinting" />
         <item itemvalue="Application.Sort" />
         <item itemvalue="Application.Maps" />
-        <item itemvalue="Application.List" />
-        <item itemvalue="Application.Sets" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -302,29 +308,45 @@
       <workItem from="1572020472089" duration="8358000" />
       <workItem from="1575546327933" duration="1213000" />
       <workItem from="1577637976044" duration="9259000" />
+      <workItem from="1577647993374" duration="1036000" />
+      <workItem from="1578727586817" duration="1851000" />
+      <workItem from="1578910837920" duration="145000" />
+      <workItem from="1578911410062" duration="427000" />
+      <workItem from="1591574659934" duration="690000" />
+      <workItem from="1594420236295" duration="521000" />
+      <workItem from="1605086087131" duration="302000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/my-practice-world" />
     </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1943" y="121" width="824" height="525" key="IDE.errors.dialog" timestamp="1591574901611">
+      <screen x="1680" y="0" width="1360" height="768" />
+    </state>
+    <state x="1943" y="121" width="824" height="525" key="IDE.errors.dialog/0.28.1680.1022/1680.0.1360.768@1680.0.1360.768" timestamp="1591574901611" />
+    <state x="1805" y="17" width="1022" height="729" key="SettingsEditor" timestamp="1591575105778">
+      <screen x="1680" y="0" width="1360" height="768" />
+    </state>
+    <state x="1805" y="17" width="1022" height="729" key="SettingsEditor/0.28.1680.1022/1680.0.1360.768@1680.0.1360.768" timestamp="1591575105778" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
